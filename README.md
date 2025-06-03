@@ -1,17 +1,5 @@
 # 🧩 Procedural Cabinet Modeling System – Specification Prompt
 
-## 🎯 Purpose
-
-This document defines a **procedural cabinet modeling system** implemented using:
-- **React**
-- **Tailwind CSS**
-- **Three.js**
-- **React Three Fiber (R3F)**
-
-The system enables users to create, edit, and visualize modular cabinet structures in 3D space. It supports dynamic layout behavior, nested item structure, configurable item properties, and intelligent merging logic.
-
----
-
 ## 📐 BaseRow – The Main Horizontal Layout Container
 
 - `BaseRow` is the **main horizontal layout container** for all items.
